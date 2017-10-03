@@ -1,0 +1,6 @@
+C:\Sync\school\s1b1 Knowledge Representation\improperize\Improperize\Improperize\bin\Release\Improperize.exe.config
+C:\Sync\school\s1b1 Knowledge Representation\improperize\Improperize\Improperize\bin\Release\Improperize.exe
+C:\Sync\school\s1b1 Knowledge Representation\improperize\Improperize\Improperize\bin\Release\Improperize.pdb
+C:\Sync\school\s1b1 Knowledge Representation\improperize\Improperize\Improperize\obj\Release\Improperize.csproj.CoreCompileInputs.cache
+C:\Sync\school\s1b1 Knowledge Representation\improperize\Improperize\Improperize\obj\Release\Improperize.exe
+C:\Sync\school\s1b1 Knowledge Representation\improperize\Improperize\Improperize\obj\Release\Improperize.pdb

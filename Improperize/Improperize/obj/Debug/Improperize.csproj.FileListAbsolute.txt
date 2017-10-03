@@ -1,0 +1,7 @@
+C:\Sync\school\s1b1 Knowledge Representation\improperize\Improperize\Improperize\bin\Debug\Improperize.exe.config
+C:\Sync\school\s1b1 Knowledge Representation\improperize\Improperize\Improperize\bin\Debug\Improperize.exe
+C:\Sync\school\s1b1 Knowledge Representation\improperize\Improperize\Improperize\bin\Debug\Improperize.pdb
+C:\Sync\school\s1b1 Knowledge Representation\improperize\Improperize\Improperize\obj\Debug\Improperize.csprojResolveAssemblyReference.cache
+C:\Sync\school\s1b1 Knowledge Representation\improperize\Improperize\Improperize\obj\Debug\Improperize.csproj.CoreCompileInputs.cache
+C:\Sync\school\s1b1 Knowledge Representation\improperize\Improperize\Improperize\obj\Debug\Improperize.exe
+C:\Sync\school\s1b1 Knowledge Representation\improperize\Improperize\Improperize\obj\Debug\Improperize.pdb
